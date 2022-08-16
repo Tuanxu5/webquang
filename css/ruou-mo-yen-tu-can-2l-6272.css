@@ -1,0 +1,306 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+.main-area {
+  font-family: "SF Mono";
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.main-area .v1 {
+  max-width: 1360px;
+}
+.main-area .v1 .bs-example .nav > li {
+  background: #f9f9f9;
+  padding: 10px;
+  text-align: center;
+  font-size: 12px;
+  border: 1px solid rgb(117, 117, 117);
+}
+.main-area .v1 .bs-example .nav > li:active {
+  padding-top: 5px;
+}
+.main-area .v1 .bs-example .nav > .active {
+  background: #f9f9f9;
+  padding: 10px;
+  text-align: center;
+  font-size: 12px;
+  border: none;
+}
+.main-area .v1 .bs-example .nav > li .title-active {
+  color: #00bdbb;
+}
+.main-area .v1 .bs-example .nav > li .title-normal {
+  color: #808285;
+}
+.menu-sactionA .name_sp {
+  font-weight: bold;
+  font-size: 20px;
+}
+.menu-sactionA .inputma {
+  font-size: 13px;
+  border: none;
+  border-bottom: 1px solid rgb(199, 199, 199);
+}
+.lienket {
+  text-align: center;
+}
+.lienket .lienketmang {
+  font-size: 12px;
+}
+.button-like {
+  font-size: 13px;
+  color: #fff;
+  font-weight: 600;
+  background: #1877f2;
+  border: none;
+  border-radius: 5px;
+}
+.button-share {
+  font-size: 13px;
+  color: #fff;
+  font-weight: 600;
+  background: #1877f2;
+  border: none;
+  border-radius: 5px;
+}
+.thongtinNCC {
+  font-weight: 600;
+}
+.thongtin_left {
+  font-weight: 700;
+  font-size: 12px;
+  vertical-align: bottom;
+}
+.thongtin-right {
+  font-size: 14px;
+}
+.UTMAvoBold {
+  font-size: 14px;
+  font-weight: 700;
+}
+.giathamkhao {
+  font-size: 12px;
+  color: rgb(73, 73, 73);
+}
+.priceStyle {
+  font-size: 18px;
+  color: rgb(209, 19, 19);
+}
+.giohang-button {
+  color: #fff;
+  background-color: #ffa500;
+  border: 1px solid #ffa500;
+  padding: 12px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+.muangay-button {
+  color: #fff;
+  background-color: #ff0000;
+  border: 1px solid #ff0000;
+  padding: 12px;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+.NhaCungCap {
+  background-color: #f9f9f9;
+  padding: 0 50px 12px 0;
+}
+.sp-right {
+  font-size: 12px;
+}
+.nav2 {
+  border: none !important;
+}
+.menu_sanpham ul {
+  background-color: #f9f9f9;
+}
+.menu_sanpham li {
+  padding: 10px;
+  font-size: 12px;
+  text-align: center;
+  display: inline-block;
+}
+.menu_sanpham li:active {
+  padding-top: 5px;
+  color: #000;
+}
+.menu_sanpham li a {
+  font-weight: 600;
+  color: rgb(104, 104, 104);
+}
+.menu_sanpham li a.active {
+  font-weight: 600;
+  color: #0383be;
+}
+.menu_sanpham li a:hover {
+  font-weight: 600;
+  color: #0383be;
+}
+.tablene {
+  vertical-align: middle;
+  font-size: 12px;
+}
+.tableChitietCol1 {
+  width: 200px;
+  font-weight: 600;
+}
+.card-body strong {
+  font-size: 13px;
+  vertical-align: middle;
+}
+.card-body span {
+  font-size: 12px;
+}
+.cacsanphamkhac .card-product {
+  margin-bottom: 20px;
+  padding: 15px 10px 1px 10px;
+  box-shadow: 0 0 10px 4px #e0e0e0;
+}
+.cacsanphamkhac .card-product .qr-product img {
+  margin-right: 10px;
+}
+.list-inline {
+  color: rgb(220, 210, 20);
+  margin-top: 10px;
+  text-align: center;
+}
+.name-product span {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgb(11, 93, 11);
+}
+.money-card {
+  font-weight: 600;
+  color: rgb(130, 130, 130);
+}
+.pagination-card {
+  margin-top: 10px;
+}
+.pagination-card > li > a {
+  color: black;
+}
+.pagination-card .activee > a {
+  color: black;
+  background-color: #e9ecef;
+  font-weight: 700;
+}
+.card-info {
+  background-color: #efefef;
+  text-align: center;
+  padding: 20px;
+}
+.nhapthongtin {
+  margin: 10px 0;
+}
+.btn-search {
+  padding: 10px;
+  width: 100%;
+  background-color: #0457ba;
+  color: #fff;
+  font-weight: 600;
+  border: none;
+}
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  background-color: #f9f9f9;
+  border: none;
+}
+.card-hspl {
+  border: 1px solid rgb(168, 167, 167);
+  border-radius: 10px;
+  margin-left: -15px;
+  margin-bottom: 50px;
+}
+.card-hspl .header-card {
+  color: rgb(6, 106, 131);
+  background-color: #f7f7f7;
+  padding: 10px;
+  border-bottom: 1px solid rgb(168, 167, 167);
+}
+.card-hspl .body-card {
+  padding: 50px;
+  text-align: center;
+}
+.card-hspl .body-card span:nth-child(1) {
+  color: red;
+  font-weight: bold;
+  font-size: 13px;
+}
+.card-hspl .body-card span:nth-child(3) {
+  color: red;
+  font-size: 13px;
+  font-style: italic;
+  opacity: 0.5;
+}
+.card-hspl .body-card span:nth-child(5) {
+  text-align: justify;
+  display: block;
+  font-size: 12px;
+  margin-top: 50px;
+}
+.card-hspl .body-card span:nth-child(7) {
+  text-align: justify;
+  display: block;
+  font-size: 12px;
+}
+.card-hspl .footer-card {
+  color: rgb(6, 106, 131);
+  background-color: #f7f7f7;
+  padding: 10px;
+  border-top: 1px solid rgb(168, 167, 167);
+}
+.nav-thongtin {
+  width: 100%;
+}
+.menu_sanpham > ul > li {
+  border: none;
+}
+#daili .menu-search {
+  text-align: right;
+}
+#daili .menu-search input:nth-child(1) {
+  padding-left: 20px;
+  height: 50px;
+  width: 200px;
+  border: 1px solid black;
+}
+#daili .menu-search input:nth-child(2) {
+  width: 220px;
+  padding-left: 20px;
+  height: 50px;
+  border: 1px solid black;
+}
+#daili .menu-search .button-menu-search {
+  background: #fff;
+  border: 1px solid #00bdbb;
+  padding: 8x;
+  color: #00bdbb;
+}
+.dlud {
+  color: rgb(215, 0, 0);
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-size: 13px;
+}
+.list-gianhang {
+  margin: 30px 0px;
+  vertical-align: middle;
+}
+.list-gianhang span:nth-child(1) {
+  vertical-align: middle;
+  font-weight: bold;
+}
+.select-box span:nth-child(1) {
+  font-weight: 500;
+  color: #00bdbb;
+}
+.select-box select:nth-child(2) {
+  height: 50px;
+  padding: 2px;
+}
+.select-box select:nth-child(3) {
+  height: 50px;
+  padding: 2px;
+}
+#gianhang {
+  vertical-align: middle;
+}
